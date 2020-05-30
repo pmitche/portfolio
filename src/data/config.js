@@ -1,10 +1,10 @@
 module.exports = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'Paul Philip Mitchell',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
-  author: 'John Doe',
+  author: 'Paul Philip Mitchell',
   url: 'https://portfolio.smakosh.com',
-  legalName: 'John Doe',
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+  legalName: 'Paul Philip Mitchell',
+  defaultDescription: 'I’m Paul and I’m a .NET developer.',
   socialLinks: {
     twitter: 'http://www.twitter.com/smakosh',
     github: 'https://github.com/smakosh',
@@ -27,8 +27,8 @@ module.exports = {
     zipCode: 'ZipCode',
   },
   contact: {
-    email: 'email',
-    phone: 'phone number',
+    email: 'paulpmit@gmail.com',
+    phone: '40486106',
   },
-  foundingDate: '2018',
+  foundingDate: '2020',
 };

@@ -48,6 +48,10 @@ export const Details = styled.div`
       font-size: 26pt;
     }
   }
+
+  .name {
+    color: #1277d6;
+  }
 `;
 
 export const Thumbnail = styled.div`
