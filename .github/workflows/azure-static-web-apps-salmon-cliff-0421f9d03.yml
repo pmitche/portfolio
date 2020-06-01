@@ -24,9 +24,10 @@ jobs:
     - name: Yarn Build
       run: yarn build
       env:
-        GATSBY_PORTFOLIO_GITHUB_TOKEN: a8699513c4bb91da5364d62a5a160efc164f6f01
+        GATSBY_PORTFOLIO_GITHUB_TOKEN: fc9379e3fbd33f912ecbd1661118729bee3bd4d4
         GATSBY_PORTFOLIO_FORMIK_ENDPOINT: https://api.formik.com/submit/ppm-portfolio/contact-form
         GATSBY_PORTFOLIO_RECAPTCHA_KEY: 6LcTGv4UAAAAACnI_2zTdUTC8ezC0I82jdje9os5
+        GATSBY_PORTFOLIO_RECAPTCHA_SECRET: 6LcTGv4UAAAAABatCLOwuJp-A5j6LND2zw04m-sa
     - name: Build And Deploy
       id: builddeploy
       uses: Azure/static-web-apps-deploy@v0.0.1-preview
