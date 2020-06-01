@@ -1,9 +1,10 @@
 {
 	"build": {
 		"env": {
-			"GATSBY_PORTFOLIO_GITHUB_TOKEN": "@gatsby_portfolio_github_token",
-      "GATSBY_PORTFOLIO_FORMIK_ENDPOINT": "@gatsby_portfolio_formik_endpoint",
-      "GATSBY_PORTFOLIO_RECAPTCHA_KEY": "@gatsby_portfolio_recaptcha_key"
+			"GATSBY_PORTFOLIO_GITHUB_TOKEN": "fc9379e3fbd33f912ecbd1661118729bee3bd4d4",
+      		"GATSBY_PORTFOLIO_FORMIK_ENDPOINT": "https://api.formik.com/submit/ppm-portfolio/contact-form",
+			"GATSBY_PORTFOLIO_RECAPTCHA_KEY": "6LcTGv4UAAAAACnI_2zTdUTC8ezC0I82jdje9os5",
+			"GATSBY_PORTFOLIO_RECAPTCHA_SECRET": "6LcTGv4UAAAAABatCLOwuJp-A5j6LND2zw04m-sa"
 		}
 	}
 }
